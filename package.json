@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "author": "Chris LoPresto <chris@chrislopresto.com>",
-  "description": "A Mama's boy who enjoys giving shoulder rubs",
+  "description": "Buster is a Mama's boy who enjoys giving shoulder rubs",
   "dependencies": {
     "hubot": "^2.16.0",
     "hubot-diagnostics": "0.0.1",
